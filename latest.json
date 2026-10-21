@@ -1,0 +1,10 @@
+{
+  "version": "0.6.2",
+  "notes": "首个版本：13 条补丁 + 双档授权 + 诊断",
+  "url": "https://xrychhq.github.io/dsh-enhancer/dsh-enhancer-0.6.2.zip",
+  "exe": "https://xrychhq.github.io/dsh-enhancer/DSHEnhancer-0.6.2.exe",
+  "sha256": "7b91b8d1d22e5861f674b66f6042d54357943b5ca6af323bbb8e454bae3e809c",
+  "exeSha256": "f2aeade17daad257c57f47f8ea83b3c1ebbcf3d3c6f25bf49122a9c243b01c7f",
+  "bytes": 36462,
+  "releasedAt": "2026-10-21T14:10:55.476Z"
+}
